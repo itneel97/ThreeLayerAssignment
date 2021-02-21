@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ThreeLayerAssignment.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Inventory</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar navbar-light" style="background-color: #e3f2fd;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Inventory</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="Order.aspx">Order</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Customers.aspx">Customers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Salesman.aspx">Salesman</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <!--Footer Starts -->
+    <nav class="navbar navbar-light d-flex justify-content-center" style="background-color: #e3f2fd;">
+        &copy; Neel Patel 2021
+    </nav>
+    <!--Footer Ends -->
+
+
+</body>
+</html>

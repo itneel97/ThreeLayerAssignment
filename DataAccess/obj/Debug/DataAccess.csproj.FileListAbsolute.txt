@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\bin\Debug\BusinessObject.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\bin\Debug\BusinessObject.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessObject\obj\Debug\BusinessObject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessObject\obj\Debug\BusinessObject.pdb

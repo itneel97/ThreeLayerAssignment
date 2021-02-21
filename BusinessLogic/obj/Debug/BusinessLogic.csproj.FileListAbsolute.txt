@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\User\source\repos\ThreeLayerAssignment\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
