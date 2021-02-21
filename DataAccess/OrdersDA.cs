@@ -22,7 +22,8 @@ namespace DataAccess
             {
                 string query = "SELECT * FROM Orders";
                 SqlCommand cmd = new SqlCommand(query, con);
-                con.Open();
+                con.Open(); 
+		//My Task 1
                 SqlDataAdapter adpt = new SqlDataAdapter(cmd);
                 adpt.Fill(tbl);
             }
