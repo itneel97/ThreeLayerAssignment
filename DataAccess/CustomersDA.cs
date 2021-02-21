@@ -22,6 +22,7 @@ namespace DataAccess
                 con.Open();
                 SqlDataAdapter adpt = new SqlDataAdapter(cmd);
                 adpt.Fill(tbl);
+                // Task 2
             }
 
             return tbl;
