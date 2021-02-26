@@ -21,7 +21,7 @@ namespace DataAccess
                 SqlCommand cmd = new SqlCommand(query, con);
                 con.Open();
                 SqlDataAdapter adpt = new SqlDataAdapter(cmd);
-                adpt.Fill(tbl);
+                adpt.Fill(tbl);//GIt practice
             }
 
             return tbl;
